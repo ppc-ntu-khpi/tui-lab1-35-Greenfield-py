@@ -20,3 +20,17 @@
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
 ![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
+
+
+## На "чотири"
+1. Перепишіть метод **ShowCustomerDetails** з використанням класів *Bank, Customer, Account* та ін. з наших попередніх лаб - банк повинен мати як мінімум два клієнти, інформацію про яких (та про перші рахунки, що їм належать) ви маєте побачити, увівши номер клієнта. *УВАГА! Класи можна взяти або з [відповідного репозиторію](https://github.com/liketaurus/OOP-JAVA), або взяти [jar-файл](https://github.com/liketaurus/TUI-Labs/blob/master/jars/MyBank.jar) з усіма необхідними класами з цього ж репозиторію та підключити його як бібліотеку (див. п.3 завдання "на трійку).*
+2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
+
+
+![Снимок экрана (143)](https://user-images.githubusercontent.com/53509054/83406790-1400f980-a418-11ea-8f2b-f5bd9705f936.png)
+
+![Снимок экрана (144)](https://user-images.githubusercontent.com/53509054/83406796-16635380-a418-11ea-93c9-43477081857a.png)
+
+![Снимок экрана (145)](https://user-images.githubusercontent.com/53509054/83406797-16fbea00-a418-11ea-8d35-5fa9b3209fc7.png)
+
+![Снимок экрана (146)](https://user-images.githubusercontent.com/53509054/83406798-17948080-a418-11ea-9769-12606fd38e57.png)
